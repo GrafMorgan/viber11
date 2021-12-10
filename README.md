@@ -56,4 +56,5 @@ protected void onCreate(Bundle savedInstanceState) {
     }
 ~~~
 7. Проверяем
+
 ![image](https://user-images.githubusercontent.com/38504787/145622317-6a240d94-167a-4d5b-9889-920df5a657f0.png)
